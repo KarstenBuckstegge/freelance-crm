@@ -1,0 +1,6 @@
+schema: https://nifty-rub.eu-central-1.aws.cloud.dgraph.io/graphql
+generates:
+  ./definitions/graphql-types.ts:
+    plugins:
+      - typescript
+      - typescript-operations

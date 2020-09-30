@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# generated files
+/definitions/graphql-types.ts
